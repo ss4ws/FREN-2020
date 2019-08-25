@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Calendar 
-parent: Syllabus
 nav_order: 4
-permalink: /docs/Syllabus/4-Calendar
+has_children: true
+permalink: /docs/Calendar
 ---
 
 # Calendar Overview
@@ -11,8 +11,6 @@ permalink: /docs/Syllabus/4-Calendar
 This is an overview of the semester schedule. 
 {: .fs-6 .fw-300 }
 
-# Calendar Overview
-{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -21,13 +19,27 @@ This is an overview of the semester schedule.
 {:toc}
 ---
 
-# Week 1 
+# Semaine 1: Les générations qui bougent 
+(introduction et leçon 6)
+
+## mardi 27 aout
+- Introduction
+- Leçon 6
+
+## jeudi 29 aout
+- Leçon 6
+- création du portfolio et profil
+- réflexion 1
+
+
 
 - - -
-# Week 2 
+# Semaine 2: Les sciences et la technologie (leçon 7)
+
 
 - - - 
-# Week 3
+# Semaine 3: Les sciences et la technologie (leçon 7)
+
 
 - - - 
 # Week 4
