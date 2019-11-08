@@ -413,13 +413,13 @@ _Mise en pratique p.252_
 
 * * *
 
-### 12 SEPT
+# 12 SEPT
 
 - [Short video about the RBS's Diderot rolling press and the Encyclopédie](https://vimeo.com/234503790/9f5a16d308)
 
 - [Documentary on Presswork](https://vimeo.com/346425469/84e1614fcb)
 
-### Comparatif: iPad mini vs. iPod Touch 5G
+## Comparatif: iPad mini vs. iPod Touch 5G
 
 En regardant [la vidéo](http://www.youtube.com/watch?v=XGzfTJa9gbE), complétez la comparaison d’après les commentaires et observations de Steven. Selon Steven, les deux appareils ont beaucoup de points communs.
 
@@ -428,28 +428,28 @@ En regardant [la vidéo](http://www.youtube.com/watch?v=XGzfTJa9gbE), complétez
 
 _Steven donne son avis (son opinion) dans cette vidéo._
 
-#### Dimensions
+### Dimensions
 L’iPad Mini est `___________` l’iPod Touch 5G.
 (C’est normal, l’iPad Mini est une mini `___________`.)
 L’épaisseur : Les deux appareils sont extrêmement fins. C’est vraiment impressionnant. L’iPod Touch 5G est `___________` tous les produits Apple jamais conçus.
 Le nouveau connecteur dock Lightning est beaucoup `___________` ce qu’on avait jusqu’à présent sur iPod Touch et sur iPad.  Cela vous permet un transfert de données bien `___________` avec iTunes.
 
-#### Les écrans
+### Les écrans
 L’écran de l’iPad Mini est beaucoup `___________` celui de l’iPod Touch, mais la résolution de l’iPod Touch 5G (avec l’écran rétina) est `___________` celle de l’iPad Mini.  Si vous préférez avoir des images `___________`, choisissez l’iPod Touch 5G.
 
-#### Performance et Fonctionnalité
+### Performance et Fonctionnalité
 Les deux appareils sont équipés du même processeur, la puce A5, mais celui de l’iPad Mini est cadencé à 1 GHz, alors que celui de l’iPod Touch est à 800 MHz.  L’iPad Mini aura donc un léger avantage. Selon le petit test Geekbench, le score de l’iPad Touch 5G est `___________` le score de l’iPad Mini.
 Au niveau de la mémoire vive, l’iPod Touch est `___________` l’iPad Mini. Et l’autonomie de la batterie est `___________` sur l’iPad Mini que sur l’iPod Touch 5G.
 
-#### Caractéristiques techniques
+### Caractéristiques techniques
 L’iPad Mini et l’iPod Touch 5G ont la même caméra arrière, mais l’iPod Touch est équipé d’un flash sur la face arrière, ce qui vous permettra de faire de bien `___________` photos en basse luminosité. Sur la face avant, ils ont le même appareil photo de très bonne qualité qui permet de filmer en HD, ce qui est très pratique pour FaceTime et Skype.
 
-#### Stockage et Prix
+### Stockage et Prix
 L’iPad Mini est disponible en 3 capacités: 16, 32, et 64 GB.
 L’iPod Touch 5G commence à 32 giga et monte jusqu’à 64.
 L’iPod Touch 5G commence à partir de 329 euros. Pour seulement 10 euros de plus, vous pouvez avoir l’iPad Mini.
 
-#### En conclusion
+### En conclusion
 Les deux appareils sont vraiment `___________` .
 Décidez lequel vous `___________` `___________`.
 L’iPod Touch 5G est `___________` et `___________` à transporter. La qualité de l’écran est magnifique.
@@ -459,12 +459,12 @@ A vous de faire votre choix. Réfléchissez bien!`
 
 <!-- [Corrigé](https://drive.google.com/file/d/0B2TprXrSfARQb29nWTJ3QVNjNzQ/view?usp=sharing) -->
 
-### Dictée
+## Dictée
 _Écoutez bien et remplissez les mots qui manquent_
 
 Quelle est la `___________` du XXe siècle? Si vous demandez à un `___________`, il vous `___________` l’`___________` et le `___________` de `___________`. Les informaticiens `___________` d’accord. L’invention `___________` , ils vous `___________`,  est celle de `___________`. Les `___________` `___________` eux aussi un avis différent. Depuis, l’atterrissage sur la lune, `___________` `___________` n’ART pas d’occuper leurs `___________`, `___________` ils captent des signes de vie `___________`.
 
-### Expressions de temps
+## Expressions de temps
 
 _À compléter. Complétez les phrases en utilisant `depuis, pendant, il y a, ou pour`._
 
@@ -474,31 +474,29 @@ Tu aimes mon nouveau téléphone portable? Je l’ai acheté `___________` deux 
 `___________` 2 ans le grand public ignorait ce réseau social, maintenant c’est très populaire. `
 L’année prochaine ils partiront à Paris `___________` deux semaines.
 
-
-
-### E-portfolio
+## E-portfolio
 
 _Lisez `Journal 2` sur les e-portfolios **de 2-3 camarades que vous ne connaissez pas bien** et laissez votre commentaire sur un d'entre eux._
 
-### Devoirs
+## Devoirs
 
 - <mark>Eval en linge 2 (L.7) -- Due before class on SEPT 12</mark>
 
 * * *
 
-### 17 SEPT
+# 17 SEPT
 
-### Devoirs
+## Devoirs
 - Supersiste HW Vocabulaire Passe-Temps & 8.1 (infinitives) & 8.4 (prepositions with infinitives)
 
 * * *
 
-### 19 SEPT
+# 19 SEPT
 
-### Project Mixer
+## Project Mixer
 - [Mixer Handout](https://drive.google.com/file/d/1TeSGtILfwUxfl3TXb12gaJbX30rat6WM/view?usp=sharing)
 
-### Lesson 8 Vocab (Les passe-temps, le temps libre...)
+## Lesson 8 Vocab (Les passe-temps, le temps libre...)
 _1. Écoutez [la présentation](https://docs.google.com/presentation/d/1Jp-1daDKnf6_4ow5i3ENQ9rMnnMnu5z-tgTUqV5nejE/edit?usp=sharing) et trouvez les mots qui manquent à [ce document](https://drive.google.com/file/d/0B2TprXrSfARQam02dnJRTXExWUU/view?usp=sharing)_
 
 _2. Interrogez vos camarades_
@@ -513,14 +511,13 @@ _2. Interrogez vos camarades_
 - Quel est le spectacle, la pièce ou le concert que tu as trouvé le plus émouvant (moving) récemment ? Pourquoi ?  
 - Peux-tu me décrire trois choses qui se trouvent dans ta garde-robe ?  
 
-### 8.1 (infinitives) WITH 8.4 (prepositions with infinitives)
+## 8.1 (infinitives) WITH 8.4 (prepositions with infinitives)
 - A compléter p. 290
 - Projets de weekend p. 290
 - A inventer  
 - Questions 2 4 5 6 7 p. 419
 
-
-### Devoirs
+## Devoirs
 - [Projet Culturel - Topic Proposal](https://drive.google.com/file/d/1qYB3imsnkDKA-B1K-lVsYD6cTwCgIsvs/view?usp=sharing)
 - Supersite HW - Pronoms relatifs & La Réunion, île intense.
 - [Pronoms relatifs](https://drive.google.com/file/d/1Vqa2KoYuNkhFje3iO_ZtnbF728aOzaUw/view?usp=sharing)
@@ -528,9 +525,9 @@ _2. Interrogez vos camarades_
 
 * * *
 
-### 24 SEPT
+# 24 SEPT
 
-### [Le trésor de la Buse](https://www.youtube.com/watch?v=IGaiqKdsRyE)
+## [Le trésor de la Buse](https://www.youtube.com/watch?v=IGaiqKdsRyE)
 
 _Regardez le film et répondez aux questions suivantes:_
 
@@ -546,25 +543,25 @@ Modèle:
 Deux amis **qui** sont en vacances...   
 L'île **où** ils se trouvent...  
 Le type de vacances **dont** ils rêvent...  
-De retour à Paris ils regardent les photos **qu'**ils ont prises...  
+De retour à Paris ils regardent les photos **qu'** ils ont prises...    
 
-
-### Pronoms relatifs [Review](https://docs.google.com/presentation/d/1GE5T39r5GTLYyLUoXH5ljRtN9OyS6CxEQKGYMcIhlZk/edit?usp=sharing)
+## Pronoms relatifs [Review](https://docs.google.com/presentation/d/1GE5T39r5GTLYyLUoXH5ljRtN9OyS6CxEQKGYMcIhlZk/edit?usp=sharing)
 
 - A choisir p. 218
 - Fès p. 218
 - A lier p. 218
 
-### Devoirs
+## Devoirs
 - Supersite HW
 - [Tâche Orale 1](https://drive.google.com/file/d/1YaY-5_Rxe_8ySmUB2DfnT45t5gKj97Dn/view?usp=sharing)  
 
 * * *
 
-### 26 SEPT
+# 26 SEPT
 
-### Prepositions with geographical names
-#### Le tour du monde en 80 jours, de Roman d'aventures, écrit par Jules Verne, publié en 1872.
+## Prepositions with geographical names
+
+### Le tour du monde en 80 jours, de Roman d'aventures, écrit par Jules Verne, publié en 1872.
 
 _1. Résumé: Lire et remplir les pronoms relatifs qui manquent._
 
@@ -604,20 +601,20 @@ _4. Mise en pratique p. 294 - 295_
 - où
 - l'océan indien
 
-### Devoirs
+## Devoirs
 - Supersite HW
 - [Journal 3](https://drive.google.com/file/d/0B2TprXrSfARQZ3NOb1VnTlctZ0ZQQ0U2anFpbjNEdFgzYVpR/view?usp=sharing)
 
 * * *
 
-### 1 OCT
+# 1 OCT
 
-### Commentaire 3
+## Commentaire 3
 _Lisez les journaux de trois autres étudiants. Choisissez **un** et écrivez une réponse de quatre phrases._
 - Est-ce que vous êtes d’accord avec les idées de votre partenaire? Justifier votre réponse.
 - Si vous n’êtes pas d’accord, quelle(s) alternative(s) proposez-vous?
 
-### Petit Nicolas
+## Petit Nicolas
 1. _Activités page 310_
 2. _Avec un partenaire résumez le récit._
 3. _Avec un camarade discutez 3 des points différents:_
@@ -634,8 +631,7 @@ _Lisez les journaux de trois autres étudiants. Choisissez **un** et écrivez un
   - Si tous les amis avaient l’esprit d’équipe…
   - Si Alceste n’avait pas oublié le ballon chez lui…
 
-
-###  Faire un portrait chinois                         
+##  Faire un portrait chinois                         
 _Qu'est-ce que tu serais si tu étais..._
 
 - Si j'étais un objet,
@@ -658,32 +654,32 @@ _Qu'est-ce que tu serais si tu étais..._
 - Si j'étais une pièce,
 - Si j'étais un véhicule,
 
-### Devoirs
+## Devoirs
 Révisions (L 6.2 & 8)
 
 * * *
 
-### 3 OCT
+# 3 OCT
 Évaluation en classe 2 (L 6.2 & 8)
 
-### Devoirs
+## Devoirs
 - Supersite HW
 - [Fiche de grammaire: Faire causatif](https://drive.google.com/file/d/1GrjkYkQ6HYLqTFVtQyR0A7eKdDnclr6a/view?usp=sharing)
 
-#### Projet Culturel Étape 2
+### Projet Culturel Étape 2
 - [Exposé](https://drive.google.com/file/d/1WjK1mfRTI6pgEWBIo31zWrzQFETw5nJk/view?usp=sharing)  
 - [Reflection](https://drive.google.com/file/d/14AwqdnvcB9eZJiv-oS6NxYlELkeK0m0u/view?usp=sharing)  
 - [Rubric](https://drive.google.com/file/d/1QoUUgL4dtiHXXAN5nvkDrR0XL5xFlEGk/view?usp=sharing)
 
 * * *
 
-### 10 OCT
+# 10 OCT
 
-### Exposé Projet Culturel
+## Exposé Projet Culturel
 
-### [Le monde du travail et des finances](https://docs.google.com/presentation/d/1GFbrh4qwszqKCAcDITi3CK1XbrlqSLo4hf6yD3KpRMA/edit?usp=sharing)
+## [Le monde du travail et des finances](https://docs.google.com/presentation/d/1GFbrh4qwszqKCAcDITi3CK1XbrlqSLo4hf6yD3KpRMA/edit?usp=sharing)
 
-### Devoirs
+## Devoirs
 
 - Supersite HW
 - Finir et télécharger la [reflection sur l'exposé](https://drive.google.com/file/d/14AwqdnvcB9eZJiv-oS6NxYlELkeK0m0u/view?usp=sharing)
@@ -693,11 +689,11 @@ Révisions (L 6.2 & 8)
 * * *
 
 
-### 15 OCT
+# 15 OCT
 
-### [Faire causatif](https://vtext-cdn.vhlcentral.com/vtext_imaginez3e/book.html?rid=0)
+## [Faire causatif](https://vtext-cdn.vhlcentral.com/vtext_imaginez3e/book.html?rid=0)
 
-### Bonbon au poivre
+## Bonbon au poivre
 _Activités_
 
 - Fait le résumé du film avec un partenaire.
@@ -729,14 +725,14 @@ _Activités_
       Il lui demande de mettre Annick sur des points de vente `___` car il la trouve très convaincante.
 
 
-### Le participe présent
+## Le participe présent
 
 - [Bonbon au poivre & participe présent](https://drive.google.com/file/d/1Gqgb_B3rEYtttm2UjwBy66Q-iElUsGz1/view?usp=sharing)
 
 
-### Dictée vocabulaire leçon 9
+## Dictée vocabulaire leçon 9
 
-### Devoirs
+## Devoirs
 - Supersite HW
 - [Commentaire 4](https://drive.google.com/file/d/0B2TprXrSfARQZ3NOb1VnTlctZ0ZQQ0U2anFpbjNEdFgzYVpR/view?usp=sharing)
 - [Tâche 2 (ébauche)](https://drive.google.com/file/d/1BQgO2mlGqK9Lc8iuOfe3L8HU2pmKICtR/view?usp=sharing)
@@ -745,7 +741,7 @@ _Activités_
 
 # 17 OCT
 
-### À travail égal, salaire égal
+## À travail égal, salaire égal
 
 <iframe id="ressource-embeded" width="100%" height="400" src="https://enseigner.tv5monde.com/fiches-pedagogiques-fle/travail-egal-salaire-egal" frameborder="0"></iframe>
 
@@ -753,23 +749,22 @@ _Activités_
 [_Activités_](https://drive.google.com/file/d/1GbUviGX0i0d0sCTmhnet4fLK5_KE8l6L/view?usp=sharing)
 
 
-### Irregular -oir verbes
+## Irregular -oir verbes
 - [Un nouveau règlement](https://m3a.vhlcentral.com/sections/0/activities/55992?popup=1)
 - [Les collègues](https://m3a.vhlcentral.com/sections/0/activities/55997?popup=1)
 
-### Savoir *vs* connaître
+## Savoir *vs* connaître
 - [À compléter](https://m3a.vhlcentral.com/sections/0/activities/56172?popup=1)
 
-### Devoirs
+## Devoirs
 - Supersite
 - [Journal 5](https://drive.google.com/file/d/0B2TprXrSfARQZ3NOb1VnTlctZ0ZQQ0U2anFpbjNEdFgzYVpR/view?usp=sharing)
 
-
 * * *    
 
-### 22 OCT
+# 22 OCT
 
-### Update of the FREN 2020-008 class printing project at Rare Book School
+## Update of the FREN 2020-008 class printing project at Rare Book School
 
 Please complete the Doodle Poll I sent you via email in order to finalize the date we are meeting with the staff from Rare Book School (RBS) who will demonstrate for you an 18th century letterpress and help you print a limited edition poster with the visualizations from the data that you have been gathering by using the Attention and Reflection Tracker (ART). You will each get a copy of the limited edition poster, plus you will also get to have your own piece of the printing plate to take with you from the printing lab! You can each sign your contribution to the poster. I’m planning on giving copies of the poster to the French department, the Jefferson Trust, Rare Book School, and a private donor—who are all sponsoring this special event for you.
 
@@ -777,7 +772,7 @@ As its name suggests, ART is more than a statistical tool. It offers you a visua
 
 Once the date is finalized, I will get in touch with UVA Today to come, cover the event.
 
-### C’est vs il est
+## C’est vs il est
 - C’est et ce sont:
   - `+` noun, including modified nouns
     - Mélanie? C’est une formatrice. C’est une  Française. C’est une jeune formatrice stressée.
@@ -810,33 +805,33 @@ Once the date is finalized, I will get in touch with UVA Today to come, cover th
     - Il est chef du département des ventes.
     - Il est content de la simulation de vente d’Annick.
 
-### Africaines Entrepreneuses
+## Africaines Entrepreneuses
 
 
-### Devoirs
+## Devoirs
 
 - Supersite
 
 * * *
 
-### 24 OCT
+# 24 OCT
 
-### [Comment réaliser un bon CV en français?](https://drive.google.com/file/d/1GvCyeApjwhM1e4kM28a3TD9i1-ig2npq/view?usp=sharing)
+## [Comment réaliser un bon CV en français?](https://drive.google.com/file/d/1GvCyeApjwhM1e4kM28a3TD9i1-ig2npq/view?usp=sharing)
 
 - [Dictée L9](https://docs.google.com/document/d/1jH8RXqO63UmwqeptQ3LDZzfPB9Z8iqJNBkUwpAc2rSc/edit?usp=sharing)
 
-### Devoirs
+## Devoirs
 - [Tâche 2 orale](https://drive.google.com/file/d/1KypkLcMhId6bikZT4zscxZ_iS19ky7U1/view?usp=sharing)
 - Commentaire 4
 - Éval en ligne 4 (L.9)
 
 * * *
 
-### 29 OCT
+# 29 OCT
 
-#### Eval en classe
+## Eval en classe
 
-### Devoirs
+## Devoirs
 
 - Supersite HW
 - [Tâche 2 orale](https://drive.google.com/file/d/1KypkLcMhId6bikZT4zscxZ_iS19ky7U1/view?usp=sharing)
@@ -844,42 +839,42 @@ Once the date is finalized, I will get in touch with UVA Today to come, cover th
 
 * * *
 
-### 31 OCT
+# 31 OCT
 
-### [Vocabulaire Leçon 10](https://docs.google.com/presentation/d/1kklaObpZm6RxI69iMaDEhy37lqJAPefVtgWoTWoLLHg/edit?usp=sharing)
+## [Vocabulaire Leçon 10](https://docs.google.com/presentation/d/1kklaObpZm6RxI69iMaDEhy37lqJAPefVtgWoTWoLLHg/edit?usp=sharing)
 
-### [Le zapping](https://m3a.vhlcentral.com/sections/0/activities/48264?popup=1)
+## [Le zapping](https://m3a.vhlcentral.com/sections/0/activities/48264?popup=1)
 
   - Est-ce qu'ils auraient pu agir plus tôt?
   - Qu'est-ce qu'ils aurait dû faire pour la protection de l'environnement?
   - Qu'est-ce que vous auriez pu faire si vous étiez à leur place?  
 
-### Conditionnel Passé
+## Conditionnel Passé
 
 - [À completer](https://m3a.vhlcentral.com/sections/0/activities/83090/popup?program_id=87)
 - [Qu'aurait-elle fait?](https://m3a.vhlcentral.com/sections/0/activities/83091/popup?program_id=87)
 - Des regrets p. 369
 
-### Devoirs
+## Devoirs
 
 - Supersite HW
 - [Info & preparation for the oral exam](https://docs.google.com/document/d/1lU7Oy2ks47-RDQ7x_8mRaiZ2HhXjSdXeXv_RGoVl5oc/edit?usp=sharing)
 
 * * *
 
-### 5 NOV
+# 5 NOV
 
-#### Préparation pour l'examen oral
+## Préparation pour l'examen oral
 
 1. [Group pairing](https://www.randomlists.com/team-generator?grp=4&items=)
    - [FREN 2020 - 007](https://docs.google.com/document/d/1inRSwoKzTydiKv63fwczYnCxiDyJ7iFMMYJbQn5NA5A/edit?usp=sharing)
    - [FREN 2020 - 008](https://docs.google.com/document/d/1Nn43ehggPqPWxKfHj4iNWuBZMkf7j_qtJnC2ALy6ciQ/edit?usp=sharing)
-
 2. [Info & preparation for the oral exam](https://docs.google.com/document/d/1lU7Oy2ks47-RDQ7x_8mRaiZ2HhXjSdXeXv_RGoVl5oc/edit?usp=sharing)
     - [Oral exam rubric](https://docs.google.com/document/d/1HybrbttI0vlY5sYo0WBOHudJVZ45tm2AqTbOaWS4G1M/edit?usp=sharing)
 
 
-#### Court métrage "Un héros de la nature gabonaise"
+## Court métrage "Un héros de la nature gabonaise"
+
 1. [Et après](https://m3a.vhlcentral.com/sections/0/activities/60164?popup=1)
 2. [Compréhension](https://m3a.vhlcentral.com/sections/0/activities/56261?popup=1)
 3. Lire la fiche sur [la déforestation](https://pages.shanti.virginia.edu/15F_FREN_2020-001_CGAS/files/2015/11/La-d%C3%A9forestation-un-ph%C3%A9nom%C3%A8ne-mondial_FP.pdf) et avec votre partenaire répondez aux questions:
@@ -891,19 +886,19 @@ Once the date is finalized, I will get in touch with UVA Today to come, cover th
     - Quelles seront les conséquences futures si on n’agit pas maintenant pour résoudre le problème?
     - Selon vous, quel secteur pourrait répondre mieux au problème de la déforestation: la politique, la culture, l’éducation, la recherche scientifique, les ONG?
 
-#### Devoirs
+## Devoirs
 - Supersite HW
 - [Tâche écrite 3 (pas d'ébauche)](https://drive.google.com/file/d/1dbMPHfY1g8EGFrkQ4lNKotfzreY0zBF1/view?usp=sharing) -- <mark>à rendre au plus tard NOV 19</mark>
 
 * * *
 
-### 7 NOV
+# 7 NOV
 
-### Si clauses
+## Si clauses
 
 ![batman - si clauses](https://uva.digication.com/files/M56d2116b0486cf24c0e0c16e68fc1164.jpg)
 
-#### Avant l'écoute
+### Avant l'écoute
 
 - Selon vous, parmi ces personnages, lequel est le plus capable de changer le
 monde ?
@@ -926,7 +921,8 @@ monde ?
 
 <iframe id="ressource-embeded" width="100%" height="750" src="https://enseigner.tv5monde.com/fiches-pedagogiques-fle/si-interprete-par-zaz" frameborder="0"></iframe>
 
-#### Après l'écoute
+### Après l'écoute
+
 - Quel(s) est/sont le(s) temps principalement utilisé(s) dans cette chanson ? Justifiez ce choix.
 
 - Cochez les éléments entendus dans la dernière partie de la chanson:
@@ -948,17 +944,17 @@ La chanson "Si" est un appel à...
 - Mise en pratique: [Il faut être optimistes](https://m3a.vhlcentral.com/sections/0/activities/56295?popup=1)
 
 
-#### Devoirs
+## Devoirs
 - Préparer l'examen oral
 - Supersite HW
 
 * * *
 
-### 12 NOV
+# 12 NOV
 
-#### Examens Oraux
+## Examens Oraux
 
-##### FREN 2020 - 007
+### FREN 2020 - 007
 
 - 12:30 - 12:45: Cynthia & David    
 - 12:45 - 01:00: Alisha & Hannah
@@ -966,7 +962,7 @@ La chanson "Si" est un appel à...
 - 01:15 - 01:30: Tatum & Vanessa
 - 01:30 - 01:45: Hayden & John
 
-##### FREN 2020 - 008
+### FREN 2020 - 008
 
 - 02:00 - 02:15: Kristen & Taylor
 - 02:15 - 02:30: Madison & Olivia
@@ -974,17 +970,17 @@ La chanson "Si" est un appel à...
 - 02:45 - 03:00: Adela & Isabella
 - 03:00 - 03:15:
 
-#### Devoirs
+### Devoirs
 - [Projet culturel étape 3](https://drive.google.com/file/d/1E9A5ABkefT3NS7-HKJ-cLOdUdeVRsZmG/view?usp=sharing) -- <mark>Due today for those who you wiil pass the oral exam Thursday.</mark>
 - [Tâche écrite 3](https://drive.google.com/file/d/1dbMPHfY1g8EGFrkQ4lNKotfzreY0zBF1/view?usp=sharing) -- <mark>à rendre au plus tard NOV 19</mark>
 
 * * *
 
-### 14 NOV
+# 14 NOV
 
-#### Examens Oraux
+## Examens Oraux
 
-##### FREN 2020 - 007
+### FREN 2020 - 007
 
 - 12:30 - 12:45: Claire & Tori   
 - 12:45 - 01:00: Bridget & Mggie & Selena
@@ -992,7 +988,7 @@ La chanson "Si" est un appel à...
 - 01:15 - 01:30: Claire & Jill
 - 01:30 - 01:45:
 
-##### FREN 2020 - 008
+### FREN 2020 - 008
 
 - 02:00 - 02:15: Marianne & Ria
 - 02:15 - 02:30: Grant & Dominic
@@ -1000,21 +996,21 @@ La chanson "Si" est un appel à...
 - 02:45 - 03:00: Barret & Emily
 - 03:00 - 03:15: Gracie & Harper & Tapley
 
-#### Devoirs
+## Devoirs
 - [Projet culturel étape 3](https://drive.google.com/file/d/1E9A5ABkefT3NS7-HKJ-cLOdUdeVRsZmG/view?usp=sharing) -- <mark>Due today for those who passed the oral exam Tuesday.</mark>
 - [Tâche écrite 3](https://drive.google.com/file/d/1dbMPHfY1g8EGFrkQ4lNKotfzreY0zBF1/view?usp=sharing) -- <mark>à rendre au plus tard NOV 19</mark>
 
 * * *
 
-### 19 NOV
+# 19 NOV
 [Tâche écrite 3](https://drive.google.com/file/d/1dbMPHfY1g8EGFrkQ4lNKotfzreY0zBF1/view?usp=sharing) -- <mark>Due today</mark>
 
-#### Les richesses du Pacifique
+## Les richesses du Pacifique
 
-#### Future Antérieur
+## Future Antérieur
 - [Évacuation](https://m3a.vhlcentral.com/sections/0/activities/56312?popup=1)
 
-#### [Passive voice](https://docs.google.com/presentation/d/1npfFqVc8kGckQJhafb9npIbbp1JYv5t4_bEkCgzcX-c/edit?usp=sharing)
+## [Passive voice](https://docs.google.com/presentation/d/1npfFqVc8kGckQJhafb9npIbbp1JYv5t4_bEkCgzcX-c/edit?usp=sharing)
 
 - [Voix active ou passive?](https://m3a.vhlcentral.com/sections/0/activities/60134?popup=1)
 - [À transformer](https://m3a.vhlcentral.com/sections/0/activities/60140?popup=1)
@@ -1022,31 +1018,31 @@ La chanson "Si" est un appel à...
 
 * * *
 
-### 21 NOV
+# 21 NOV
 
-#### Évaluation en classe 4 (L6.3 & L10)
+## Évaluation en classe 4 (L6.3 & L10)
 
 * * *
 
-### 26 NOV
+# 26 NOV
 
 [Tâche orale 3](https://drive.google.com/file/d/1vYbCm9rCNE_eVLdF_fWag5EGoSzI44LT/view?usp=sharing) -- <mark>Due today</mark>
 
 * * *
 
-### 28 NOV
+# 28 NOV
 🦃 Congé de Thanksgiving
 
 * * *
 
-### 3 DEC
+# 3 DEC
 
 - [Projet culturel: présentations](https://drive.google.com/file/d/1VerAsShVVmsCntKfLZCDBvHJdk511gH4/view?usp=sharing)
 - Présentations e-portfolio
 
 * * *
 
-### 5 DEC
+# 5 DEC
 
 - [Projet culturel: présentations](https://drive.google.com/file/d/1VerAsShVVmsCntKfLZCDBvHJdk511gH4/view?usp=sharing)
 - Présentations e-portfolio
