@@ -273,21 +273,21 @@ ART is a tracker that brings awareness to the minutiae of your learning progress
 
 * * *
 
-### 29 AOUT
+# 29 AOUT
 
-### Warm Up
+## Warm Up
 - E-portfolios: _Partagez vos profils_ et _Donnez des conseils à vos camarades_
     - Je recommande que tu...  
     - Je propose que tes amis et toi...  
     - Je souhaite que tu...  
     - sIl est indispensable que tu...  
 
-### Subjonctive D.O.V.E
+## Subjonctive D.O.V.E
 _Mise en pratique p. 214_  
 - Vacances de Djerba (subjonctif avec des expressions impersonnelles)  
 - Dialogue parents-enfant _en groupes de trois (une phrase par personne)_   (subjonctif avec des expression de volonté et d'émotion)
 
-### Vocabulaire Leçon 6 "En Famille"  
+## Vocabulaire Leçon 6 "En Famille"  
 _En posant seulement deux questions à chaque camarade de classe, trouvez une personne qui..._
 
 1. qui écrit parfois des cartes postales à sa famille...
@@ -306,7 +306,7 @@ _Comment poser la question?_
 9. qui a été souvent grondé par ses parents...
 10. qui a au moins trois frères et sœurs...
 
-#### Mise en pratique p. 199
+### Mise en pratique p. 199
 - Les analogies
 - Définissez et devinez
 
@@ -314,7 +314,7 @@ _Comment poser la question?_
 ### [ART](https://forms.gle/1fvPKehFFZRSUhfA9)
 _Complétez_
 
-### DEVOIRS
+## DEVOIRS
 - Supersite HW
   - Vocab Lecon 7 also on page 236.
   - Subjonctif avec les expressions de doubt et conjonctions (7.3) p. 258 - 259 (Not the past subjunctive).  
@@ -324,9 +324,9 @@ _Complétez_
 
 * * *
 
-### 3 SEPT
+# 3 SEPT
 
-### Subjonctif avec des expressions de doute
+## Subjonctif avec des expressions de doute
 _Phrases à compléter:_  
 1. Il est peu probable que Vanessa `___________` (vouloir) rester avec Samuel.
 2. Il y a un espoir de reconciliation à condition que Samuel `___________` (être) moins accro de son ordinateur.
@@ -337,19 +337,19 @@ _Phrases à compléter:_
 7. Afin de `___________` (passer) plus de temps avec son ordinateur, Samuel s’était déconnecté de la réalité.
 8. Bien que Samuel `___________` (se rendre compte de) son dépendance de la technologie, il était trop tard pour récupérer l’amour de Vanessa.
 
-#### Mise en pratique Supersite Workbook:  
+### Mise en pratique Supersite Workbook:  
 - Quel Mode  
 - Informatique  
 
 
-### [Vocabulaire L7](https://docs.google.com/presentation/d/e/2PACX-1vQAoZD35gQoawW3RwYh5o86_foIHGvd3IVweZsyy8oO9HIH5P-qIoKpYmv4A8GHx4uieF-Ijhw3Mt-W/pub?start=false&loop=false&delayms=3000)
+## [Vocabulaire L7](https://docs.google.com/presentation/d/e/2PACX-1vQAoZD35gQoawW3RwYh5o86_foIHGvd3IVweZsyy8oO9HIH5P-qIoKpYmv4A8GHx4uieF-Ijhw3Mt-W/pub?start=false&loop=false&delayms=3000)
 
-### Court Métrage - Strict Eternum
+## Court Métrage - Strict Eternum
 - Est-ce que le couple du film vit dans la réalité?
 - Quels indices nous offre le film pour affirmer si le couple vit dans la réalité ou pas?
 - Qu'est-ce qui se passe à la fin du film? Comment s'appelle cette technique?      
 
-### DEVOIRS
+## DEVOIRS
 - Supersite HW
 - Commentaire 1
 
@@ -689,7 +689,9 @@ Révisions (L 6.2 & 8)
 - Finir et télécharger la [reflection sur l'exposé](https://drive.google.com/file/d/14AwqdnvcB9eZJiv-oS6NxYlELkeK0m0u/view?usp=sharing)
 - [Journal 4](https://drive.google.com/file/d/0B2TprXrSfARQZ3NOb1VnTlctZ0ZQQ0U2anFpbjNEdFgzYVpR/view?usp=sharing)
 
+
 * * *
+
 
 ### 15 OCT
 
