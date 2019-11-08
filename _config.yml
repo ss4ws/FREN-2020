@@ -30,7 +30,7 @@ search_enabled: true
 #    - "//github.com/ss4ws/FREN-2020"
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: light
+color_scheme: dark #light
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
