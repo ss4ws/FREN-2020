@@ -6,8 +6,6 @@ has_children: true
 permalink: /docs/E-portfolio
 ---
 
-# About e-portfolios
-
-Learn what is an an e-portfolio, why you are learning with it, and how you can make the most out of yours this semester.     
+# E-portfolio items
 
 {: .fs-6 .fw-300 }

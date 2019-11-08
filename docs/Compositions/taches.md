@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Compositions
+title: Tâches Écrites & Orales
 nav_order: 5
 has_children: true
-permalink: /docs/Compositions
+permalink: /docs/taches
 ---
 
-# Compositions 
+# Tâches Écrites & Orales  
 
 {: .fs-6 .fw-300 }
