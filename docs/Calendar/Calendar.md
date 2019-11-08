@@ -19,9 +19,9 @@ This is an overview of the semester schedule.
 {:toc}
 ---
 
-## Calendar
+# Calendar
 
-### Semaine 1: Les générations qui bougent (introduction et leçon 6)
+## Semaine 1: Les générations qui bougent (introduction et leçon 6)
 - [27 AOUT](#27-aout)
   - Introduction
   - Leçon 6.1
@@ -33,7 +33,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 2: Les sciences et la technologie (leçon 7)
+## Semaine 2: Les sciences et la technologie (leçon 7)
 
 - [3 SEPT](#3-sept)
   - Leçon 7
@@ -46,7 +46,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 3: Les sciences et la technologie (leçon 7)
+## Semaine 3: Les sciences et la technologie (leçon 7)
 - [10 SEPT](#10-sept)
   - Leçon 7
   - [Tâche 1 (ébauche)](https://drive.google.com/file/d/1SBfkjBvZF8vTZUXbkgWpoi54CyGC2EnZ/view?usp=sharing)
@@ -57,7 +57,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 4: S’évader et s’amuser (leçon 8)
+## Semaine 4: S’évader et s’amuser (leçon 8)
 
 - 17 SEPT
   - Évaluation en classe 1 (L 6.1 & 7)
@@ -68,7 +68,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 5: S’évader et s’amuser (leçons 6.2 & 8)
+## Semaine 5: S’évader et s’amuser (leçons 6.2 & 8)
 
 - [24 SEPT](#24-sept)
   - Leçon 8
@@ -81,7 +81,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 6: S’évader et s’amuser (leçon 8)
+## Semaine 6: S’évader et s’amuser (leçon 8)
 
 - [1 OCT](#1-oct)
   - Leçon 8
@@ -94,7 +94,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 7: Perspectives de travail (leçon 9)
+## Semaine 7: Perspectives de travail (leçon 9)
 
 - 8 OCT
   - 📚 Congé d’automne
@@ -105,7 +105,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 8: Perspectives de travail (leçon 9)
+## Semaine 8: Perspectives de travail (leçon 9)
 
 - [15 OCT](#15-oct)
   - Leçon 9
@@ -119,7 +119,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 9: Perspectives de travail (leçon 9)
+## Semaine 9: Perspectives de travail (leçon 9)
 
 - [22 OCT](#22-oct)
   - Leçon 9
@@ -133,7 +133,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 10: Les richesses naturelles (leçon 10)
+## Semaine 10: Les richesses naturelles (leçon 10)
 
 - [29 OCT](#29-oct)
   -  Évaluation en classe 3 (L9)
@@ -145,7 +145,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 11: Les richesses naturelles (leçon 10)
+## Semaine 11: Les richesses naturelles (leçon 10)
 
 - [5 NOV](#5-nov)
   - Leçon 6.3 / Leçon 10
@@ -156,7 +156,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 12: Examens oraux
+## Semaine 12: Examens oraux
 
 - [12 NOV](#12-nov)
   - [Examens oraux](https://docs.google.com/document/d/1lU7Oy2ks47-RDQ7x_8mRaiZ2HhXjSdXeXv_RGoVl5oc/edit?usp=sharing)
@@ -168,7 +168,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 13: Les richesses naturelles (leçon 10)
+## Semaine 13: Les richesses naturelles (leçon 10)
 
 - [19 NOV](#19-nov)
   - Leçon 10
@@ -180,7 +180,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 14: Congé de Thanksgiving
+## Semaine 14: Congé de Thanksgiving
 
 - [26 NOV](#26-nov)
   - Tâche 3 (orale)
@@ -190,7 +190,7 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Semaine 15: Présentations et conclusions
+## Semaine 15: Présentations et conclusions
 
 - [3 DEC](#3-dec)
   - [Projet culturel: présentations](https://drive.google.com/file/d/0B2TprXrSfARQOGlRaW52b20yX0dFQXdONGFNelpMZFVkNjc0/view?usp=sharing)
@@ -205,16 +205,16 @@ This is an overview of the semester schedule.
 
 - - -
 
-### Dates importantes
+## Dates importantes
 - 10 SEPT: Last day to ADD and DROP a class
 - 22 OCT: Last day to WITHDRAW from a class
 - 13 DEC: Date limite pour rendre la version finale de votre e-portfolio
 
 - - -
 
-### 27 AOUT
+# 27 AOUT
 
-### Introduction
+## Introduction
 > Bonjour tout le monde! Comment allez-vous?   
 > Je m'appelle Spyro Simotas et je serai votre enseignant ce semestre. Je suis étudiant mais aussi lecteur de Français au Département de Français à UVA.    
 > Je n'ai pas beaucoup voyagé cet été. Je n'ai même pas du tout voyagé cet été. Pourquoi? Parce que je suis en train de finir ma thèse et je suis très stressé.    
@@ -223,7 +223,7 @@ This is an overview of the semester schedule.
 > Qui est allé en France cet été? Qui est allé dans un pays francophone?    
 > Où est-ce que vous êtes allés?   
 
-### Pour mieux se connaître...  
+## Pour mieux se connaître...  
 _Activité orale, avec un partenaire. Trouvez un partenaire et posez alternativement les questions suivantes:_  
 
 > Comment t’appelles-tu?  
@@ -237,7 +237,7 @@ _Activité orale, avec un partenaire. Trouvez un partenaire et posez alternative
 > Est-ce que tu as des frères et sœurs? Combien? Quels âge ont-ils?    
 > Qu'est-ce qui t'intéresse à la culture française et francophone? (la mode la gastronomie, la littérature, le cinéma, la langue, etc). Pourquoi?  
 
-### Syllabus "Chasse au trésor"
+## Syllabus "Chasse au trésor"
 _Travaillez en groupes de trois. Quel groupe trouvera toutes les réponses en premier?_
 - What is the date of the final exam?
 - How many DRAFTS of compositions will you write in this class?
@@ -247,18 +247,18 @@ _Travaillez en groupes de trois. Quel groupe trouvera toutes les réponses en pr
 - What is the best way to choose a partner for your cultural project?
 - What is the best way to use Google Translate in your compositions?
 
-### [ART](https://forms.gle/1fvPKehFFZRSUhfA9)
+## [ART](https://forms.gle/1fvPKehFFZRSUhfA9)
 
-#### What is ART?
+## What is ART?
 ART is a tracker that brings awareness to the minutiae of your learning progress. Although there is always growth in learning, the path itself is not always a straight line, much less an ascending one. Setbacks and frustration will be partners in your journey, as much as satisfaction and victory. With ART I am asking you to be honest, and record both in order to trace your unique path to success.
 
-#### ART Principles
+## ART Principles
 - Process _vs_ Outcome
 - Inscription _vs_ Measurement
 - Reflection _vs_ Value Judgement  
 
 
-### Devoirs
+## Devoirs
 
 - S'inscrire au Supersite.
 - Consultez le document [e-portfolios guidelines](https://drive.google.com/file/d/0B2TprXrSfARQME5QQXFDb0NjcWw1Y2tyaXFwbjBwWGUtaUhj/view?usp=sharing) pou créer votre e-Portfolio sur Digication.   
@@ -741,7 +741,7 @@ _Activités_
 
 * * *
 
-### 17 OCT
+# 17 OCT
 
 ### À travail égal, salaire égal
 
